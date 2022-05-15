@@ -1,6 +1,6 @@
 
 <?php
-$a = 'Мои знания на';
+$a = 'I know PHP on ';
 $b = 100;
 $c = '%'; 
 ?>
@@ -8,6 +8,7 @@ $c = '%';
 <?php
   $price = 15;
 
-  if($price >= 15 && $price <= 20)
-      $d = 'Это число находится между 15 и 20';
+  if($price >= 15 && $price <= 20) {
+      $d = 'This number is between 15 and 20';
+  }
 ?>

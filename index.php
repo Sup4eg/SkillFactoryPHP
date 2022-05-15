@@ -1,14 +1,14 @@
 
 
 <?php 
- $p = 'Приветствую Вас на моей страничке!';
+ $p = 'Welcome!';
 ?>
 
 <?php 
- $name = 'Александр';
- $surname = 'Иванов';
- $city = 'Москва';
- $age = 28;
+ $name = 'Trezubov';
+ $surname = 'Kirill';
+ $city = 'St.Petersburg';
+ $age = 25;
 ?>
 
 

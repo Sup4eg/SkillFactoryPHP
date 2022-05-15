@@ -7,7 +7,7 @@ body {
 
 .greetings,
 p,
-h1, 
+h1,
 h2 {
     font-family: 'Noto Serif JP', serif;
 }
@@ -17,7 +17,7 @@ h2 {
     flex-direction: column;
     margin: 0 auto;
     max-width: 1200px;
-    background-color: #E6E6E6;
+    background-color: #E6E687;
     padding: 5px;
     height: 100%;
 }
@@ -28,10 +28,10 @@ h2 {
     justify-content: space-between;
     height: 25%;
     margin-bottom: 3em;
-    background-color: #CED8F6;
+    background-color: #CED905;
 }
 
-ul  {
+ul {
     display: flex;
     list-style-type: none;
 }
@@ -44,7 +44,7 @@ li a {
     text-decoration: none;
     font-family: 'Noto Serif JP', serif;
     font-size: 1.5rem;
-    color: #848484;
+    color: #08298A;
     font-weight: 800;
 }
 
@@ -73,16 +73,20 @@ li a {
 .myImg {
     margin-top: 150px;
     padding-left: 20px;
-    flex-basis: 450px;
+    flex-basis: 300px;
+}
+
+.myImg img {
+    width: 170px;
 }
 
 .knowledge {
-    display: flex;   
+    display: flex;
     justify-content: center;
 }
 
 .article {
-    margin-top: 2em;   
+    margin-top: 2em;
 }
 
 
@@ -94,12 +98,12 @@ p {
 
 .text {
     font-size: 1rem;
-    color: #585858;
+    color: black;
 }
 
 h2 {
     text-align: center;
-    color: #424242;
+    color: #08298A;
 }
 
 h1 {
@@ -109,6 +113,6 @@ h1 {
 }
 
 .footer {
-    background-color: #5882FA;
+    background-color: #CED905;
     flex: 0 0 auto;
 }

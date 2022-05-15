@@ -1,3 +1,3 @@
 <div class="footer">
-            <h2>Мы изучили основы PHP!</h2>
-        </div>
+    <h2>COPYRIGHT © 2021 - 2022. ALL RIGHTS RESERVED</h2>
+</div>
